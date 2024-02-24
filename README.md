@@ -6,9 +6,16 @@ Breast cancer detection using biopsy images with TensorFlow and Keras sequential
 
 ### Updates
 
-- Next js is been removed due to time constraints and streamlit will be utlizied
 - Model architecture is well learned and implemented
 - **Accuracy obtained was 85% on testing set.**
-- Integration is pending, hopeful to be completed before final submission
+- Integrated streamlit to python code
 ![Folder structure on building the model locally.] ("./resources/Folder_structure.png")
-- Trained Model is uploaded
+- Trained Model is uploaded in name model.keras
+- Total parameters are about 3 lakhs +.
+
+### To run the app
+#### Instll streamlit
+```pip install streamlit```
+#### Run streamlit
+```streamlit run main.py```
+
