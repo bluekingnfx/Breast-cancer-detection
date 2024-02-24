@@ -8,4 +8,7 @@ Breast cancer detection using biopsy images with TensorFlow and Keras sequential
 
 - Next js is been removed due to time constraints and streamlit will be utlizied
 - Model architecture is well learned and implemented
-- Integration and accuracy calculation is pending, hopeful to be completed before final submission
+- **Accuracy obtained was 85% on testing set.**
+- Integration is pending, hopeful to be completed before final submission
+![Folder structure on building the model locally.] ("./resources/Folder_structure.png")
+- Trained Model is uploaded
