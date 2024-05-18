@@ -1,5 +1,4 @@
-# AI FORGE
----
+
 ### Breast Cancer detection
 
 Breast cancer detection using biopsy images with TensorFlow and Keras sequential architecture using CNN.
