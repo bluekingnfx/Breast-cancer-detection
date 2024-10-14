@@ -13,7 +13,7 @@ Breast cancer detection using biopsy images with TensorFlow and Keras sequential
 - Total parameters are about 3 lakhs +.
 
 ### To run the app
-#### Instll streamlit
+#### Install streamlit
 ```pip install streamlit```
 #### Run streamlit
 ```streamlit run main.py```
